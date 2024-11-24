@@ -1,4 +1,4 @@
-[Demo link] https://dokrod.github.io/react_todo-app-with-api/
+[Demo link] (https://dokrod.github.io/react_todo-app-with-api/)
 
 # React TypeScript To-Do App
 
